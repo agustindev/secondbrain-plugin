@@ -1,0 +1,19 @@
+{
+  "name": "secondbrain",
+  "owner": {
+    "name": "Secondbrain",
+    "email": "agustindev@gmail.com"
+  },
+  "metadata": {
+    "description": "The Secondbrain plugin for Claude."
+  },
+  "plugins": [
+    {
+      "name": "secondbrain",
+      "source": "./",
+      "description": "Your work memory inside Claude: daily notes, tasks, meeting recaps, documents, calendar and the Atlas knowledge graph from Secondbrain.",
+      "version": "1.0.0",
+      "category": "productivity"
+    }
+  ]
+}

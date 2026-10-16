@@ -1,0 +1,14 @@
+{
+  "name": "secondbrain",
+  "version": "1.0.0",
+  "description": "Your work memory inside Claude: daily notes, tasks, meeting recaps, documents, calendar and the Atlas knowledge graph from Secondbrain. Ask what was said or decided, prepare meetings, plan the week, and write back to your workspace.",
+  "author": {
+    "name": "Secondbrain",
+    "email": "agustindev@gmail.com",
+    "url": "https://www.secondbrain.media"
+  },
+  "homepage": "https://www.secondbrain.media/guide/mcp",
+  "repository": "https://github.com/agustindev/secondbrain-plugin",
+  "license": "MIT",
+  "keywords": ["productivity", "notes", "tasks", "meetings", "knowledge-graph", "mcp"]
+}

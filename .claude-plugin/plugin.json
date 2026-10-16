@@ -8,7 +8,18 @@
     "url": "https://www.secondbrain.media"
   },
   "homepage": "https://www.secondbrain.media/guide/mcp",
+  "documentationUrl": "https://www.secondbrain.media/guide/mcp",
+  "supportUrl": "https://www.secondbrain.media/contact",
+  "privacyPolicyUrl": "https://www.secondbrain.media/privacy",
+  "termsOfServiceUrl": "https://www.secondbrain.media/terms",
   "repository": "https://github.com/agustindev/secondbrain-plugin",
   "license": "MIT",
-  "keywords": ["productivity", "notes", "tasks", "meetings", "knowledge-graph", "mcp"]
+  "keywords": [
+    "productivity",
+    "notes",
+    "tasks",
+    "meetings",
+    "knowledge-graph",
+    "mcp"
+  ]
 }

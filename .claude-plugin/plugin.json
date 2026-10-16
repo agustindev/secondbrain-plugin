@@ -1,7 +1,9 @@
 {
   "name": "secondbrain",
-  "version": "1.0.0",
+  "displayName": "Secondbrain",
+  "version": "1.0.1",
   "description": "Your work memory inside Claude: daily notes, tasks, meeting recaps, documents, calendar and the Atlas knowledge graph from Secondbrain. Ask what was said or decided, prepare meetings, plan the week, and write back to your workspace.",
+  "icon": "./assets/icon.png",
   "author": {
     "name": "Secondbrain",
     "email": "agustindev@gmail.com",

@@ -32,4 +32,4 @@ Secondbrain is the user's work memory. Its MCP server (the `secondbrain` connect
 - **Reminder**: rings the phone at a time. It is not a task with a date.
 - **Calendar**: local events are editable; events synced from Google, Outlook or Apple are read-only here.
 
-Guide: https://www.secondbrain.media/guide/mcp
+Guide: https://www.onsecondbrain.com/guide/mcp

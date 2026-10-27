@@ -1,7 +1,7 @@
 # Secondbrain for Claude
 
 Your work memory inside Claude. This plugin connects Claude to your
-[Secondbrain](https://www.secondbrain.media) workspace — daily notes, tasks,
+[Secondbrain](https://www.onsecondbrain.com) workspace — daily notes, tasks,
 meeting recaps, documents, calendar and the Atlas of people, projects and
 organizations — so you can ask what was said or decided, prepare a meeting,
 plan the week, and write back without leaving the conversation.
@@ -37,7 +37,7 @@ Desktop and mobile.
 
 ## Links
 
-- Guide: https://www.secondbrain.media/guide/mcp
-- Privacy: https://www.secondbrain.media/privacy
-- Terms: https://www.secondbrain.media/terms
-- Support: https://www.secondbrain.media/contact
+- Guide: https://www.onsecondbrain.com/guide/mcp
+- Privacy: https://www.onsecondbrain.com/privacy
+- Terms: https://www.onsecondbrain.com/terms
+- Support: https://www.onsecondbrain.com/contact

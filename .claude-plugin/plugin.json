@@ -7,13 +7,13 @@
   "author": {
     "name": "Secondbrain",
     "email": "agustindev@gmail.com",
-    "url": "https://www.secondbrain.media"
+    "url": "https://www.onsecondbrain.com"
   },
-  "homepage": "https://www.secondbrain.media/guide/mcp",
-  "documentationUrl": "https://www.secondbrain.media/guide/mcp",
-  "supportUrl": "https://www.secondbrain.media/contact",
-  "privacyPolicyUrl": "https://www.secondbrain.media/privacy",
-  "termsOfServiceUrl": "https://www.secondbrain.media/terms",
+  "homepage": "https://www.onsecondbrain.com/guide/mcp",
+  "documentationUrl": "https://www.onsecondbrain.com/guide/mcp",
+  "supportUrl": "https://www.onsecondbrain.com/contact",
+  "privacyPolicyUrl": "https://www.onsecondbrain.com/privacy",
+  "termsOfServiceUrl": "https://www.onsecondbrain.com/terms",
   "repository": "https://github.com/agustindev/secondbrain-plugin",
   "license": "MIT",
   "keywords": [
